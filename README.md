@@ -1,4 +1,4 @@
-# 💳 Payment Gateway UI
+# Payment Gateway UI
 
 A simple and responsive front-end interface for a payment gateway built with **HTML** (optionally extendable with CSS & JS). Perfect as a beginner-level project or design prototype.
 
@@ -14,4 +14,4 @@ A simple and responsive front-end interface for a payment gateway built with **H
 - HTML5
 - CSS3, JavaScript
 
-Link:file:///C:/jana/courses%20web/payment%20gateway/index.html
+Link: file:///C:/jana/courses%20web/payment%20gateway/index.html
